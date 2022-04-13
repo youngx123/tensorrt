@@ -1,6 +1,6 @@
 使用 tensorrt 对模型进行推理测试
 
-主要以 yolov5和yolact两个网络结构为主进行测试。
+主要以 yolov5和BiSeNet两个网络结构为主进行测试。
 
 显卡型号为： GTX2070,  CUDA版本为：10.2，  cudnn版本为8.2，  tensorrt版本为：8.2.0.6
 
